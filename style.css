@@ -13,7 +13,7 @@
 
 .carousel-caption{
     bottom: 220px;
-    z-index: 2;
+    z-index: 1;
 }
 .carousel-caption h5{
     font-size: 50px;
